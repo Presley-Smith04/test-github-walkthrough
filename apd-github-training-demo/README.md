@@ -30,7 +30,7 @@ Do not store passwords, API keys, access tokens, private keys, client data, conf
 
 Use placeholder values in sample scripts. Store real secrets only in approved APD secure systems.
 
-If you accidentally commit sensitive information, notify the repository administrator immediately and follow the organization's secret-remediation process.
+If you accidentally commit sensitive information, notify the repository administrator immediately
 
 
 ### ✅ Acceptable Example;
