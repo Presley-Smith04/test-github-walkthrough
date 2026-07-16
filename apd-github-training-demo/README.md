@@ -33,7 +33,7 @@ Use placeholder values in sample scripts. Store real secrets only in approved AP
 If you accidentally commit sensitive information, notify the repository administrator immediately and follow the organization's secret-remediation process.
 
 
-# ✅ Acceptable Example;
+### ✅ Acceptable Example;
 config.exaple.json
 
 {
@@ -41,7 +41,7 @@ config.exaple.json
   "api_key": "YOUR_API_KEY_HERE"
 }
 
-# ❌ Not Acceptable Example; 
+### ❌ Not Acceptable Example; 
 config.exaple.json
 
 {
