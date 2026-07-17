@@ -1,4 +1,4 @@
-# GitHub Desktop Workflow
+# GitHub Desktop Workflow 
 
 1. Open GitHub Desktop.
 2. Pull the latest changes before editing.
