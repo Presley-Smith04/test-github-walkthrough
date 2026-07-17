@@ -48,3 +48,6 @@ config.exaple.json
   "api_url": "https://api.example.com",
   "api_key": "sk_live_123456789abcdef"
 }
+
+
+(test)   
